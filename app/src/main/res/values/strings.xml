@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BTLEDemo</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="title_scanning">Scanning</string>
+
+</resources>
